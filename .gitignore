@@ -1,5 +1,6 @@
 # Chameleon application credentials ignore
 app_creds/
+*.img
 
 # MacOS metadata
 .DS_Store
