@@ -13,3 +13,12 @@ pip install python-chi-edge
 ```
 chi-edge
 ```
+
+# Development Docs
+
+1. Install [poetry](https://python-poetry.org/docs/)
+
+2. Run using poetry
+```
+poetry run python -m chi_edge
+```
